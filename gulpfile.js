@@ -1,4 +1,4 @@
-(function(){
+(function () {
     var gulp = require('gulp'),
         del = require('del'),
         ngHtml2Js = require('gulp-ng-html2js'),
